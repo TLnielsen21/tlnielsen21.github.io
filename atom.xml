@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Terri's Adventures on the Rails]]></title>
+  <link href="http://TLnielsen21.github.io/atom.xml" rel="self"/>
+  <link href="http://TLnielsen21.github.io/"/>
+  <updated>2013-07-17T21:08:13-06:00</updated>
+  <id>http://TLnielsen21.github.io/</id>
+  <author>
+    <name><![CDATA[Terri Lee Nielsen]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[my first blog post]]></title>
+    <link href="http://TLnielsen21.github.io/blog/2013/07/15/my-first-blog-post/"/>
+    <updated>2013-07-15T21:11:00-06:00</updated>
+    <id>http://TLnielsen21.github.io/blog/2013/07/15/my-first-blog-post</id>
+    <content type="html"><![CDATA[<p>Terri Lee Nielsen,     Davinci Coders</p>
+
+<p>Jason Noble, Instructor  &ndash; Building the Ruby Toolbelt</p>
+
+<p>July 17,  2013</p>
+
+<p>It’s nice to open my first github blog….!</p>
+
+<p>My past professional work, and passions have involved :</p>
+
+<ol>
+<li><p>Entrepreneurial project management in real estate, and medical device sales – 17
+years</p></li>
+<li><p> K-16 education – I hold a K-12 Principal license, &amp; K-12 Special Ed Director license, specialties in Literacy &amp; STEM for Gifted Learners, English Lang. Acquisition – ELL students, &amp; School Psychology – Gifted, Autism, .. + similar</p></li>
+</ol>
+
+
+<p>First Day of Ruby Programming Class &ndash;  7 – 15 – 2013 –</p>
+
+<p>I’m spending as many spare minutes as I can carve out, researching my “aggregate reason for wanting to learn to code.”</p>
+
+<ol>
+<li><p>Though I recently sold my “Co-founding Board Member” financial interest in a Medical Sales company,  I hope to continue working in the Medical field as part of a consultative team helping a hospital or physician practice successfully transition to use of EMRs, EHRs – Electronic Medical Records / Electronic Health Records.</p></li>
+<li><p>The physicians / hospital group that I hope to open a working relationship doing this – feel overwhelmed about all that is involved.</p></li>
+</ol>
+
+
+<p>**  This link describes some of the staggering costs :
+Ranking Top 10 Hospital EMR Vendors by Number of Installed Systems | Dark Daily <a href="http://www.darkdaily.com/ranking-top-10-hospital-emr-vendors-by-number-of-installed-systems-32511#ixzz2ZFCkcdgy">http://www.darkdaily.com/ranking-top-10-hospital-emr-vendors-by-number-of-installed-systems-32511#ixzz2ZFCkcdgy</a></p>
+
+<p>** This link talks about a hospital CEO in California, who believed he could implement “Free Source.”   So far, 1 + year into the process, he does not regret passing up consultants &amp; sales</p>
+
+<p><a href="http://www.forbes.com/sites/zinamoukheiber/2012/08/24/open-source-electronic-health-records-a-cost-solution-for-hospitals/">http://www.forbes.com/sites/zinamoukheiber/2012/08/24/open-source-electronic-health-records-a-cost-solution-for-hospitals/</a>   Robert Wentz, Oroville Hospital  – Northern California Hospital,</p>
+
+<p>With this Building the Ruby Tool-Belt course, I have a burning desire to learn the Ruby Coding Language, within the EHRs medical context.</p>
+
+<p>I’m diving into Chris Pine’s key concepts outlined in Learn to Program, 2nd Ed.</p>
+
+<p>I hope that you will want to check-in with my posts along my way to Building the Ruby Tool-Belt ….!</p>
+
+<p>Terri Lee Nielsen             Golden, Colorado</p>
+
+<p>Davinci Coders         Davinci Institute            Boulder, Colorado</p>
+
+<p>**</p>
+]]></content>
+  </entry>
+  
+</feed>
